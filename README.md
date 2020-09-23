@@ -1,7 +1,7 @@
 # google-homepage
 First project for TOP
 
-Trying to build google homepage layout.
+Trying to build google homepage layout
 
-Live Demo:
+Demo: 
 https://anutka777.github.io/google-homepage/
